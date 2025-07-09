@@ -1,4 +1,5 @@
 # 🎉 DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing
+This is the official implementation of the paper "DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing".
 
 ## 📌 Project Overview
 

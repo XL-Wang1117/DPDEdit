@@ -75,9 +75,3 @@ accelerate launch train.py \
 You can modify training configs via parser_args.py or configs/.
 ```
 
-
-  title={DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing},
-  author={Xiaolong Wang, Zhigi Cheng, Jue Wang, Huizi Xue, Xiaojiang Peng},
-  booktitle={IEEE International Conference on Multimedia and Expo (ICME)},
-  year={2025}
-}

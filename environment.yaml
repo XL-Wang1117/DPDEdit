@@ -1,4 +1,4 @@
-name: idm
+name: dpdedit
 channels:
   - pytorch
   - nvidia
